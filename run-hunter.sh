@@ -1,6 +1,4 @@
-#!/usr/bin/env bash
-
-# Load keys
+#!/usr/bin/env bash # Load keys
 source .env
 
 # Get the prompt from your text file
