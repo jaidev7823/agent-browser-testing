@@ -1,0 +1,9 @@
+Task: Find and apply for Fullstack Developer jobs.
+Locations: Kalyan, Dombivli, Thane.
+Stack: Shopify, Liquid, Remix, React Server, FastAPI.
+Method: 
+1. Use agent-browser to search in.indeed.com and naukri.com.
+2. Find 3 jobs that match my stack.
+3. For each job, extract the "Apply" link or click the button.
+4. If it's a simple form, fill it using my details (Jai Mishra, Fullstack Dev, 4+ years exp).
+5. If it requires a file upload, stop and ask me for the path.
